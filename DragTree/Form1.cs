@@ -106,8 +106,8 @@ namespace DragTree
                     break;
                 case 4:
 
-                    row4col1.BackColor = Color.FromArgb(205, 35, 255, 115);
-                    row4col2.BackColor = Color.FromArgb(205, 35, 255, 115);
+                    row4col1.BackColor = Color.FromArgb(255, 35, 255, 115);
+                    row4col2.BackColor = Color.FromArgb(255, 35, 255, 115);
                     break;
             }
             
